@@ -403,8 +403,8 @@ public class MobileSignalController extends SignalController<
 
     private int getVolteResId() {
         int resId = 0;
-        if ( (mCurrentState.voiceCapable || mCurrentState.videoCapable)
-                &&  mCurrentState.imsRegistered ) {
+        if (mCurrentState.imsRegistered && (mCurrentState.voiceCapable ||
+                  mCurrentState.videoCapable)) {
             resId = R.drawable.ic_volte;
         }
         return resId;
