@@ -446,6 +446,7 @@
     <string name="power_charging" msgid="6727132649743436802">"<xliff:g id="LEVEL">%1$s</xliff:g> - <xliff:g id="STATE">%2$s</xliff:g>"</string>
     <string name="power_remaining_charging_duration_only" msgid="7415639699283965818">"충전 완료까지 <xliff:g id="TIME">%1$s</xliff:g> 남음"</string>
     <string name="power_charging_duration" msgid="5005740040558984057">"<xliff:g id="LEVEL">%1$s</xliff:g> - 충전 완료까지 <xliff:g id="TIME">%2$s</xliff:g> 남음"</string>
+    <string name="power_charging_limited" msgid="1956874810658999681">"<xliff:g id="LEVEL">%1$s</xliff:g> - 배터리 상태 최적화 중"</string>
     <string name="battery_info_status_unknown" msgid="268625384868401114">"알 수 없음"</string>
     <string name="battery_info_status_charging" msgid="4279958015430387405">"충전 중"</string>
     <string name="battery_info_status_charging_fast" msgid="8027559755902954885">"고속 충전 중"</string>
@@ -538,7 +539,7 @@
     <string name="user_setup_button_setup_now" msgid="1708269547187760639">"지금 설정"</string>
     <string name="user_setup_button_setup_later" msgid="8712980133555493516">"나중에"</string>
     <string name="user_add_user_type_title" msgid="551279664052914497">"추가"</string>
-    <string name="user_new_user_name" msgid="60979820612818840">"새 사용자"</string>
+    <string name="user_new_user_name" msgid="60979820612818840">"신규 사용자"</string>
     <string name="user_new_profile_name" msgid="2405500423304678841">"새 프로필"</string>
     <string name="user_info_settings_title" msgid="6351390762733279907">"사용자 정보"</string>
     <string name="profile_info_settings_title" msgid="105699672534365099">"프로필 정보"</string>
